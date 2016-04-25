@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.line,origin:"
+msgid "Origin"
+msgstr "Orígen"
+
+msgctxt "view:sale.line:"
+msgid "Origin"
+msgstr "Orígen"
